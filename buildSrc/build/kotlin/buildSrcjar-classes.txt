@@ -1,0 +1,1 @@
+D:\covid-19\buildSrc\build\classes\kotlin\main\Config.class;D:\covid-19\buildSrc\build\classes\kotlin\main\Deps.class;D:\covid-19\buildSrc\build\classes\kotlin\main\Versions.class
